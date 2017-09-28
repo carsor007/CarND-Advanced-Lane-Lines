@@ -17,15 +17,15 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./report_img/calibration.jpg "camera calibration"
-[image2]: ./report_img/undistort.jpg "undist"
-[image3]: ./report_img/color_grad.jpg "color_grad"
-[image4]: ./report_img/perspective.jpg "perspective"
-[image5]: ./report_img/histogram.jpg "histogram"
-[image6]: ./report_img/sliding_windows.jpg "sliding_windows"
-[image7]: ./report_img/fit_frame.jpg "fit_frame"
-[image8]: ./report_img/curve_eq.jpg "curve_eq"
-[image9]: ./report_img/draw.jpg "draw"
+[image1]: ./solution_images/calibration.png "camera calibration"
+[image2]: ./solution_images/undistort.png "undist"
+[image3]: ./solution_images/color_grad.png "color_grad"
+[image4]: ./solution_images/perspective.png "perspective"
+[image5]: ./solution_images/histogram.png "histogram"
+[image6]: ./solution_images/sliding_windows.png "sliding_windows"
+[image7]: ./solution_images/fit_frame.png "fit_frame"
+[image8]: ./solution_images/curve_eq.jpg "curve_eq"
+[image9]: ./solution_images/draw.png "draw"
 
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
